@@ -1,0 +1,20 @@
+1,NVZ 087,Agustin Galleguillo,Mercedes Benz,1000
+2,NVZ 088,Kirk M McDonald,Mercedes Benz,1000
+3,NVZ 088,Ruth T Hanley,Chevrolet, 1000
+4,NVZ 089,Kenneth B Anaya,Chevrolet,1000
+5,NVZ 091,Reggie L Dube,Chevrolet, 1000
+6,NVZ 092,Charles M Shor,Chevrolet, 1000
+7,NVZ 093,Melissa M Lynch,Chevrolet, 1000
+8,NVZ 094,Alice N Setliff,Chevrolet, 1000
+9,NVZ 095,Victor J Yates,Chevrolet,1000
+10,NVZ 096,Chris R Aponte,Chevrolet,1000
+11,NVZ 098,Lindsey A Purnell,Mercedes Benz,1000
+12,NVZ 099,Gladys M Felton,Chevrolet,1000
+13,NVZ 010,Wanda J Edgerton,Chevrolet,1000
+14,NVZ 015,Franklin R Hinds,Chevrolet,1000
+15,NVZ 874,Edward G Stoneking,Chevrolet,1000
+16,NVZ 878,Mike M Stewart,Chevrolet,1000
+17,NVZ 882,Pauline W Dodge,Chevrolet,1000
+18,NVZ 895,Richard P Howard,Mercedes Benz,1000
+19,NVZ 952,Cynthia J Mooney,Mercedes Benz,1000
+20,NVZ 455,Timothy B Colon,Mercedes Benz,1000
